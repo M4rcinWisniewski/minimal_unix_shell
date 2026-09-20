@@ -25,8 +25,5 @@ Not a POSIX shell. Not trying to be bash. Just the core ideas, done properly.
 It's a shell core, not a shell language.
 
 ## Build
-
-```sh
-```
 ```sh
 make
