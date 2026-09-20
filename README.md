@@ -1,6 +1,6 @@
 # my_sh
 
-A small Unix shell written in C.
+A small Unix shell written in C. Project developed for educational purposes.
 
 Built to learn systems programming and get closer to embedded Linux.
 Not a POSIX shell. Not trying to be bash. Just the core ideas, done properly.
