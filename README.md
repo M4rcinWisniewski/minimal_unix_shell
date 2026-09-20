@@ -1,15 +1,3 @@
-
-## What it doesn't (yet)
-
-- Builtins (`cd`, `exit`, `export`, ...)
-- Pipes (`|`), redirections (`>`, `<`), operators (`;`, `&&`, `||`)
-- Quoting, escaping, globbing
-- Variable expansion (`$?`, `$HOME`, ...)
-- Job control
-
-It's a shell core, not a shell language.
-
-## Build
 # my_sh
 
 A small Unix shell written in C.
