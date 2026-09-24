@@ -27,3 +27,7 @@ It's a shell core, not a shell language.
 ## Build
 ```sh
 make
+```
+In memory of my beloved dog Popi, rest in peace.
+
+<img width="2048" height="1536" alt="815866337_1442310134489212_8548621330676981712_n" src="https://github.com/user-attachments/assets/199ecbc3-744e-444a-823f-9b081321dcf3" />
